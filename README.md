@@ -1,2 +1,2 @@
 #Sidcup-Golf-basicwebUi
-<a>https://github.com/varun19981998/Sidcup-Golf-basicwebUi/deployments/github-pages<a>
+<a>https://varun19981998.github.io/Sidcup-Golf-basicwebUi/<a>
